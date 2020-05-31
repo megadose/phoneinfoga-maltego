@@ -1,4 +1,4 @@
-# [phoneinfoga](https://github.com/sundowndev/PhoneInfoga) maltego
+# [Phoneinfoga](https://github.com/sundowndev/PhoneInfoga) Maltego Transform
 
 ### Educational purposes only
 Advanced information gathering & OSINT framework for phone numbers
