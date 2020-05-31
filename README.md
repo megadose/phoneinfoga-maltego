@@ -8,5 +8,6 @@
 ## 🛠️ For the Installation check the [wiki](https://github.com/megadose/phoneinfoga-maltego/wiki/Installation)
 ## Example
 ![](demo.gif)
+###  Original repo : https://github.com/sundowndev/PhoneInfoga
 ## 📝 License
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
