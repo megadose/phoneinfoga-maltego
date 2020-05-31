@@ -1,7 +1,7 @@
 # [Phoneinfoga](https://github.com/sundowndev/PhoneInfoga) Maltego Transform
-# Advanced information gathering & OSINT framework for phone numbers
+## Advanced information gathering & OSINT framework for phone numbers
 
-### Educational purposes only
+#### Educational purposes only
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
