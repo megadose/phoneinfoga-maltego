@@ -7,7 +7,7 @@ from time import sleep
 def KillPhoneInfoga():
     os.system("killall phoneinfoga")
 def StartPhoneInfoga():
-    os.system("phoneinfoga serve > /dev/null &")
+    os.system("phoneinfoga serve --no-client > /dev/null &")
 
 def numverify():
     response = requests.get('http://127.0.0.1:5000/api/numbers/'+num+'/scan/numverify')
