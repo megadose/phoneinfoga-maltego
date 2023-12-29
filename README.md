@@ -1,4 +1,9 @@
 # [Phoneinfoga](https://github.com/sundowndev/PhoneInfoga) Maltego Transform
+👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
+megadose@protonmail.com
+
+📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
+
 ## Advanced information gathering & OSINT framework for phone numbers
 
 #### Educational purposes only
